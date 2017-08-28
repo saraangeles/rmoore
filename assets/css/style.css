@@ -320,7 +320,7 @@ h2 {
 	position: relative;
 }
 .about {
-	background-image: url(../img/sep1.jpg);
+	background-image: url(../img/sep1.png);
 	margin-top: 25px;
 }
 
@@ -423,7 +423,7 @@ h2 {
 }
 
 .contact {
-	background-image: url(../img/sep1.jpg);
+	background-image: url(../img/sep1.png);
 }
 
 #contactwrap label {
