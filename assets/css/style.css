@@ -361,8 +361,14 @@ h2 {
 }
 
 .portfolio {
-	background-image: url(../img/sep3.png);
+	background-image: url(../img/separator.png);
 	margin-top: 20px;
+	background-attachment: fixed;
+	background-position: 50% 0;
+	background-repeat: no-repeat;
+	height: 200px;
+	position: relative;
+
 }
 
 /* Service Wrap */
@@ -423,7 +429,13 @@ h2 {
 }
 
 .contact {
-	background-image: url(../img/sep1.png);
+	background-image: url(../img/separator2.png);
+	margin-top: 20px;
+	background-attachment: fixed;
+	background-position: 50% 0;
+	background-repeat: no-repeat;
+	height: 200px;
+	position: relative;
 }
 
 #contactwrap label {
